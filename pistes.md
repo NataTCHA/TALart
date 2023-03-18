@@ -27,6 +27,6 @@ Thème : TM
 - [ ] Mesure interessante :moyenne/ frequence/ ecart type longueur des mots, moyenne/ frequence/ ecart type POS, moyenne/ frequence/ ecart type Structure Syntaxicale, moyenne/ frequence/ Sémantique
 - [ ] penser à instaurer un calcul stat pour toutes les branches de la grammaire ! ( ne pas oublier la morphologie , rien est negligeable)
 - [ ] Envisager une fonction python pour chaque type de calcul ( avec pandas peut être si on travail sur un sheet )
-- [ ] si on fait une fonction pour chaque calculs il serait parfait de constituer une sorte de menue qui indique par ex ( 1 pour calculer la longueur des mots de votre data base )
-- [ ] faire en sorte que nos scripts python soient universel , privilégier les arguments à tapper dans l invit de commande
+- [ ] si on fait une fonction pour chaque calcul il serait parfait de constituer une sorte de menu qui indique par ex ( 1 pour calculer la longueur des mots de votre data base )
+- [ ] faire en sorte que nos scripts python soient universaux , privilégier les arguments à tapper dans l invit de commande
 - [ ] faire des graphs trop beau et une analyse aux petits oïgnons pour le jour J
