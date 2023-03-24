@@ -31,5 +31,6 @@ Thème : TM
 - [ ] faire en sorte que nos scripts python soient universaux , privilégier les arguments à tapper dans l invit de commande
 - [ ] faire des graphs trop beau et une analyse aux petits oïgnons pour le jour J
 
-- continuer le script qui va stocker dans un dictionnaire les balises et les sources. Réfléchir à comment organiser la structure des données. Cela permettra de faire des statistiques et voir si on trouve des relations entre appelation et thème. 
+1) Faire moyenne et écart type par appelation  thème
+2) faire des moyennes dans les appelations --> parser dans appelation
 - Faire un fonction qui avec spacy trouve les pos dans les appelations et les met en relation avec le thème.
