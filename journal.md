@@ -8,4 +8,10 @@ J'ai ensuite commencé un script python qui prend les balises. Il reste à l'org
 
 Elaboration d'un script qui permet l extraction d'une colonne dans un fichier csv. Nous l'avons tout d'aord testé sur le csv des adj pour pouvoir après compter leur nombre par balise.
 
-ELaboration d'un script qui compte le nombre de fois que l adj apparait par balise.
+Elaboration d'un script qui compte le nombre de fois que l adj apparait par balise.
+
+Elaboration d'un script qui extrait le premier mot de chaque appellation et compte le nombre de fois ou il apparait en first dans la colonne texte
+
+Correction du fichier de concaténation car le csv est obsolète à cause de la présence de virugle dans la colonne "texte"
+
+
