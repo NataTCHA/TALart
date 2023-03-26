@@ -1,0 +1,6 @@
+Nombre total d'adjectifs pour la balise 'Appellation Courte': 96.0
+Nombre total d'adjectifs pour la balise 'Appellation Structuree': 1352
+Nombre total d'adjectifs pour la balise 'Appellation Enrichie': 234
+Nombre total d'adjectifs pour la balise 'Appellation Complexe': 1251.0
+Nombre total d'adjectifs pour la balise 'Theme': 848.0
+Nombre total d'adjectifs pour la balise 'Theme Long': 282
