@@ -15,7 +15,7 @@ Thème : TM
 ### To do list générale
 
 - [ ] Comprendre le projet
-- [ ] Regrouper la totalité des appelations et les laisser trier pour faciliter les stats
+- [x] Regrouper la totalité des appelations et les laisser trier pour faciliter les stats
 - [ ] Se décider sur le type de calculs statitisques interessant dans le cadre de ce devoir. Ecart type et Moyenne obligés sur l ensemble du corpus!!
 - [ ] Construire un script python le plus pratique et comprehensible pour bluffer Iris et ses potes. 
 - [ ] Réflechir sur des representations visuelles claires et précises dès le premier coup d'oeil
@@ -31,8 +31,9 @@ Thème : TM
 - [ ] faire en sorte que nos scripts python soient universaux , privilégier les arguments à tapper dans l invit de commande
 - [ ] faire des graphs trop beau et une analyse aux petits oïgnons pour le jour J
 
-1) Faire moyenne et écart type par appelation  thème
+- [x] Faire moyenne et écart type par appelation  thème
 2) faire des moyennes dans les appelations --> parser dans appelation
 - Faire un fonction qui avec spacy trouve les pos dans les appelations et les met en relation avec le thème.
 
-3) faire un comptage des adj par appelation , nous venons de faire un comptage pour chaque adj 
+- [x] faire un programme qui compte des adj par appelation , nous venons de faire un comptage pour chaque adj 
+- [ ] relancer ce programme avec le bon tsv

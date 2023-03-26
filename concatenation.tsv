@@ -4401,7 +4401,6 @@ MTAL_00220_p50_71_AV	Theme Long	1	Terre ou la ville d'Alexandrie personnifiée
 MTAL_00220_p50_71_AV	Theme Long	1	Tyché (?) (3) et Ploulos (?) avec deux Amours
 MTAL_00220_p50_71_AV	Theme Long	1	Victoire donnant à boire à un serpent
 MTAL_00220_p50_71_AV	Theme Long	1	histoire de Dédale
-			
 MTAL_00220_p71_83_AV	Appellation Courte	1	. Apollon.
 MTAL_00220_p71_83_AV	Appellation Courte	1	. Bacchant.
 MTAL_00220_p71_83_AV	Appellation Courte	1	. Bacchante.
@@ -5724,6 +5723,7 @@ MTAL_00220_propre_p9_49_AV	Appellation Structuree	2	Cornaline. Sappho
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Saturne
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Satyre
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Satyre et chèvre
+MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Satyre et source
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Satyreet Ménade
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Silène et Ménade
 MTAL_00220_propre_p9_49_AV	Appellation Structuree	1	Cornaline. Silène et Pan
@@ -6219,6 +6219,7 @@ MTAL_00220_propre_p9_49_AV	Theme	1	Satyre et Nymphe
 MTAL_00220_propre_p9_49_AV	Theme	2	Satyre et chèvre
 MTAL_00220_propre_p9_49_AV	Theme	1	Satyre et jeune Nymphe
 MTAL_00220_propre_p9_49_AV	Theme	1	Satyre et panthère
+MTAL_00220_propre_p9_49_AV	Theme	1	Satyre et source
 MTAL_00220_propre_p9_49_AV	Theme	1	Satyreet Ménade
 MTAL_00220_propre_p9_49_AV	Theme	1	Satyres et Bacchus découvrant Ariane à Naxos
 MTAL_00220_propre_p9_49_AV	Theme	1	Scène de comédie
@@ -8194,6 +8195,7 @@ MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	il s'agit de l'hospitalité d
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	l'intérieur représente Héraclès, le Centaure Nessos et Déjanire
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	l'un des côtés représente un des faits les plus célèbres de l'histoire mythique d'Athènes, le retour de Thésée
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	monument célèbre de l'art corinthien, le coffre incrusté d'ivoire que Cypsélos avait consacré à Olympie
+MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	où est figuré le combat de Cadmus et du dragon gardien de la source sacrée d'Ares, à Thèbes
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	petite amphore du Louvre sur laquelle est reproduite la légende de Tydée et d'Ismène
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	représentation principale : le mariage de Pelée et de Thétis
 MTAL_00289_propre_p69_94_AV	Appellation Complexe	1	représente les compagnons d'Ulysse crevant l'oeil de Polyphème
@@ -8670,6 +8672,7 @@ MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque : apprêts d'un festin
 MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque de travail très fin : scène amoureuse
 MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque représentant une grappe de fruits
 MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque: Vénus couchée dans une barque conduite par des Amours
+MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque: cerf et biche se désaltérant à la source symbolique
 MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque: partie antérieure d'un cavalier au galop
 MTAL_00295_propre-AV	Appellation Complexe	1	mosaïque: poissons, au milieu des flots
 MTAL_00295_propre-AV	Appellation Complexe	1	orné du buste du défunt
