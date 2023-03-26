@@ -1,20 +1,32 @@
 import spacy
 import csv
+# from extractdico import extract_csv_column
 
-nlp = spacy.load("fr_core_news_lg")
-c = open("./texte_appellation.txt", 'r')
 
-text = str(c.read())
-doc = nlp(text)
+def spacy_parse_pos_lemma(corpus):
+    # On load ce qu'il faut pour spacy (ici, large!)
+    nlp = spacy.load("fr_core_news_lg")
+    # On donne le chemin vers le corpus en paramètre
+    c = open(corpus, 'r')
 
-with open('output.csv', 'w', encoding='UTF8') as file:
+    text = str(c.read())
+    doc = nlp(text)
 
-    writer=csv.writer(file)
 
-    header = ['token_spacy', 'lemma', 'pos', 'info pos']
+    #Écrit l'output dans un csv
+    with open('./output/pos_lemma_premiermot.csv', 'w', encoding='UTF8') as file:
 
-    writer.writerow(header)
+        writer=csv.writer(file)
 
-    for token in doc:
-        data = [token.text, token.lemma_, token.pos_, spacy.explain(token.pos_)]
-        writer.writerow(data)
+        header = ['token_spacy', 'lemma', 'pos']
+
+        writer.writerow(header)
+
+        for token in doc:
+            if token.pos_=="SPACE":
+                continue
+            else:
+                data = [token.text, token.lemma_, token.pos_]
+                writer.writerow(data)
+
+spacy_parse_pos_lemma("./output/corpus_premiermot.txt")
