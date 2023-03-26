@@ -6,6 +6,22 @@ J'ai ensuite commencé un script python qui prend les balises. Il reste à l'org
 
 ## 26/03
 
-Elaboration d'un script qui permet l extraction d'une colonne dans un fichier csv. Nous l'avons tout d'aord testé sur le csv des adj pour pouvoir après compter leur nombre par balise.
+Elaboration d'un script qui permet l'extraction d'une colonne dans un fichier csv. Nous l'avons tout d'abord testé sur le csv des adj pour pouvoir après compter leur nombre par balise.\
 
-ELaboration d'un script qui compte le nombre de fois que l adj apparait par balise.
+ÉLaboration d'un script qui compte le nombre de fois que l'adj apparait par balise.\
+
+Réccupération de la colonne "texte" dans le fichier concatenation.csv afin de créer un corpus pour un script SpaCy qui sortira tous les pos utilisés.\
+ 
+Problème: spacy tokenise et donc toutes les appellations sont atomisées en tokens. 
+
+<br />
+
+### TODO:
+Un script pour concaténer les pos et lemma des appellations et les rajouter en fonction des balises au document d'origine.\
+
+Prendre en compte le nombre d'occurence des titres!
+
+
+
+
+
