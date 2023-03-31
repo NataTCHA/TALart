@@ -34,4 +34,4 @@ def count_adj_occurrences(adj_file, csv_file, output_file):
     
 
 
-count_adj_occurrences('output_adj.txt', 'concatenation.csv',"output2test.txt")
+count_adj_occurrences('output_pos.txt', './output/concat_pos_lemma.tsv',"output_count_pos_test.txt")

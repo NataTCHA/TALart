@@ -1036,7 +1036,7 @@ qu'on appelle sauroctone
 Apollon en bronze conservé au Cleveland Museum of Art
 Apollon sauroctone est un type statuaire grec traditionnellement attribué à Praxitèle
 Apollon sauroctone » dans Praxitèle
-Apollon sauroctoneArtiste	Praxitèle
+Apollon sauroctoneArtiste Praxitèle
 Cleveland Museum of Art, l’« Apollon de Cleveland
 Sauroctone Borghèse conservé au musée du Louvre
 Sauroctone du Vatican conservé au musée Pio-Clementino
@@ -4400,7 +4400,6 @@ Terre ou la ville d'Alexandrie personnifiée
 Tyché (?) (3) et Ploulos (?) avec deux Amours
 Victoire donnant à boire à un serpent
 histoire de Dédale
-nan
 . Apollon.
 . Bacchant.
 . Bacchante.
@@ -5723,6 +5722,7 @@ Cornaline. Sappho
 Cornaline. Saturne
 Cornaline. Satyre
 Cornaline. Satyre et chèvre
+Cornaline. Satyre et source
 Cornaline. Satyreet Ménade
 Cornaline. Silène et Ménade
 Cornaline. Silène et Pan
@@ -6218,6 +6218,7 @@ Satyre et Nymphe
 Satyre et chèvre
 Satyre et jeune Nymphe
 Satyre et panthère
+Satyre et source
 Satyreet Ménade
 Satyres et Bacchus découvrant Ariane à Naxos
 Scène de comédie
@@ -7845,7 +7846,7 @@ y reconnaissait la Nuit
 élégant décor, si gracieux et si léger, est du plus pur goût pompéien; Amours, guirlandes de feuillages, masques bachiques
 épisodes du combat des. Grecs contre les Amazones
 épisodes du cycle troyen, comme l'enlèvement du Palladion
-nan
+
 Achille bandant le bras de Patrocle
 Achille et Ajax jouant à la pettie
 Achille tuant Troïlos
@@ -8193,6 +8194,7 @@ il s'agit de l'hospitalité donnée à Héraclès par le roi des Centaures arcad
 l'intérieur représente Héraclès, le Centaure Nessos et Déjanire
 l'un des côtés représente un des faits les plus célèbres de l'histoire mythique d'Athènes, le retour de Thésée
 monument célèbre de l'art corinthien, le coffre incrusté d'ivoire que Cypsélos avait consacré à Olympie
+où est figuré le combat de Cadmus et du dragon gardien de la source sacrée d'Ares, à Thèbes
 petite amphore du Louvre sur laquelle est reproduite la légende de Tydée et d'Ismène
 représentation principale : le mariage de Pelée et de Thétis
 représente les compagnons d'Ulysse crevant l'oeil de Polyphème
@@ -8669,6 +8671,7 @@ mosaïque : apprêts d'un festin
 mosaïque de travail très fin : scène amoureuse
 mosaïque représentant une grappe de fruits
 mosaïque: Vénus couchée dans une barque conduite par des Amours
+mosaïque: cerf et biche se désaltérant à la source symbolique
 mosaïque: partie antérieure d'un cavalier au galop
 mosaïque: poissons, au milieu des flots
 orné du buste du défunt
@@ -10021,7 +10024,7 @@ Guerrier mourant
 centaure souriant
 déesse au polos
 guerrier mourant
-nan
+
 L'Athéna
 L'hydre
 L'omphalos
@@ -10678,3 +10681,4 @@ Vénus accroupie
 Vénus accroupies
 Vénus nue
 Vénus pudique
+

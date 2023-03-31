@@ -41,4 +41,7 @@ PERSO: GENRE, ORIGINE, TYPE:
 5. Lexique affectif des verbes et adj.
 
 
+Ajout des POS au fichier concaténé : le format est le suivant (afin de pouvoir faire des regex) :
+/ token / POS , morph1|morph2 , 
 
+Problème avec les lemmes: il en manque 3! où ont-ils disparu ??

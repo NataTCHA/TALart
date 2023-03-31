@@ -14,7 +14,7 @@ def spacy_parse_pos_lemma(corpus):
 
 
     #Écrit l'output dans un csv
-    with open('./output/concat_pos_lemma.tsv', 'w', encoding='UTF8') as file:
+    with open('./output/pos_lemma.sv', 'w', encoding='UTF8') as file:
 
         writer=csv.writer(file)
 
