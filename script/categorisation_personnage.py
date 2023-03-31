@@ -2,6 +2,7 @@ import pandas
 import csv
 from unidecode import unidecode
 
+
 def categorisation_personnage(texte, nombre):
     #creer des listes pour les personnages romains et grecs + leurs occurence et leur genre + autres
     #read other doc
@@ -29,35 +30,40 @@ def categorisation_personnage(texte, nombre):
         mots = texte[i].split(' ')
         for mot in mots:
             if mot in romain and mot not in personnage_romains:
-                personnage_romains[mot]=[int(nombre[i])]
+                for indice in range(len(romain)):
+                    if romain[indice] == mot:
+                        personnage_romains[mot]=[int(nombre[i]), genre[indice]]
+                        print(personnage_romains)
             elif mot in romain and mot in personnage_romains:
                 for key, value in personnage_romains.items():
                     if key == mot:
                         value[0] += int(nombre[i])
             elif mot in grec and mot not in personnage_grecs:
-                personnage_grecs[mot]=[int(nombre[i])]
+                for indice in range(len(grec)):
+                    if grec[indice] == mot:
+                        personnage_grecs[mot]=[int(nombre[i]), genre[indice]]
+                        print(personnage_grecs)
             elif mot in grec and mot in personnage_grecs:
                 for key, value in personnage_grecs.items():
                     if key == mot:
                         value[0] += int(nombre[i])
             else:
                 autres_personnages[mot]=[int(nombre[i])]
-    print(personnage_romains)
-
+     
     #create new tsv
     with open('personnages_romains.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
         header = ['personnage', 'occurence', 'genre']
         writer.writerow(header)
         for cle, valeur in personnage_romains.items():
-            data = [cle, valeur[0]]
+            data = [cle, valeur[0], valeur[1]]
             writer.writerow(data)
     with open('personnages_grecs.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
         header = ['personnage', 'occurence', 'genre']
         writer.writerow(header)
         for cle, valeur in personnage_grecs.items():
-            data = [cle, valeur[0]]
+            data = [cle, valeur[0], valeur[1]]
             writer.writerow(data)
     with open('autres_personnages.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
