@@ -7,7 +7,7 @@ def count_adj_occurrences(adj_file, csv_file, output_file):
         adjs = f.read().splitlines()
     
     # Charger le fichier CSV contenant les balises et les textes
-    df = pd.read_csv(csv_file)
+    df = pd.read_csv(csv_file, delimiter="\t")
     
     # Initialiser un dictionnaire pour stocker les résultats
     results = {}
@@ -34,4 +34,4 @@ def count_adj_occurrences(adj_file, csv_file, output_file):
     
 
 
-count_adj_occurrences('output.txt', 'concatenation.csv',"outputr.txt")
+count_adj_occurrences('output_adj.txt', 'concatenation.csv',"output2test.txt")

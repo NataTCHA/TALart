@@ -6,7 +6,7 @@ def count_appellations(filename):
     df = pd.read_csv(filename, sep='\t')
     counts = []
     for balise, sub_df in df.groupby('balise'):
-        sub_counts = sub_df[['texte', 'occurrence']].astype(str).apply(lambda x: re.findall(r'^[\W_]*(\w+(?:\'\w+)?)[\W_]*', x['texte']) * int(x['occurrence']), axis=1).explode().value_counts().to_dict()
+        sub_counts = sub_df[['texte', 'occurrence']].astype(str).apply(lambda x: re.findall(r'^\w+\'?', x['texte']) * int(x['occurrence']), axis=1).explode().value_counts().to_dict()
         for word, count in sub_counts.items():
             counts.append((balise, word, count))
     return counts

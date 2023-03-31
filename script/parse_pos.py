@@ -14,11 +14,11 @@ def spacy_parse_pos_lemma(corpus):
 
 
     #Écrit l'output dans un csv
-    with open('./output/pos_lemma_premiermot.csv', 'w', encoding='UTF8') as file:
+    with open('./output/concat_pos_lemma.tsv', 'w', encoding='UTF8') as file:
 
         writer=csv.writer(file)
 
-        header = ['token_spacy', 'lemma', 'pos']
+        header = ['token_spacy', 'lemma', 'pos', "morph"]
 
         writer.writerow(header)
 
@@ -26,7 +26,7 @@ def spacy_parse_pos_lemma(corpus):
             if token.pos_=="SPACE":
                 continue
             else:
-                data = [token.text, token.lemma_, token.pos_]
+                data = [token.text, token.lemma_, token.pos_, token.morph]
                 writer.writerow(data)
 
-spacy_parse_pos_lemma("./output/corpus_premiermot.txt")
+spacy_parse_pos_lemma("./output/texte_appellation.txt")
