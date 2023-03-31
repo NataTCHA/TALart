@@ -14,8 +14,8 @@ def POS_tagging(fichier):
     # Tokenization et traitement de la str
     doc = nlp(texte)
 
-    nv_doc = open("doc_annotee_spacy.tsv","w")
-    nv_doc.write(f"Token_spacy	POS_spacy	Lemme_spacy	Morph_spacy\n")
+    nv_doc = open("concatenation_POS.tsv","a")
+    nv_doc[row].write(f"yo")
     for token in doc:
         # On ignore les caractères d'espacement ou de retour à la ligne
         if token.text == " " or token.text == "\n":

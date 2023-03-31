@@ -28,8 +28,17 @@ Un script pour concaténer les pos et lemma des appellations et les rajouter en 
 Prendre en compte le nombre d'occurence des titres!
 
 
+## 31/03:
 
+On détermine des hypothèses de recherche:
 
+PERSO: GENRE, ORIGINE, TYPE:
+
+1. Faire une typologie des perso : dieux, héros, ... aussi par genre (fem/masc) et par origine (grec ou latin)
+2. Le genre: quel genre est dominant ? (masculin/féminin)
+3. De quoi sont suivis les personnages ? Un outil, un support, un verbe... de quel type ? De quel genre ?
+4. Recherche sur le comportement des adj et des verbes en fonction du type de perso.
+5. Lexique affectif des verbes et adj.
 
 
 
