@@ -30,11 +30,16 @@ def categorisation_personnage(texte, nombre):
         for mot in mots:
             if mot in romain and mot not in personnage_romains:
                 personnage_romains[mot]=[int(nombre[i])]
-            elif mot in personnage_romains:
+            elif mot in romain and mot in personnage_romains:
                 for key, value in personnage_romains.items():
-                    value[0] += int(nombre[i])
-            elif mot in grec:
+                    if key == mot:
+                        value[0] += int(nombre[i])
+            elif mot in grec and mot not in personnage_grecs:
                 personnage_grecs[mot]=[int(nombre[i])]
+            elif mot in grec and mot in personnage_grecs:
+                for key, value in personnage_grecs.items():
+                    if key == mot:
+                        value[0] += int(nombre[i])
             else:
                 autres_personnages[mot]=[int(nombre[i])]
     print(personnage_romains)
