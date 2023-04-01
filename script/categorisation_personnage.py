@@ -29,6 +29,9 @@ def categorisation_personnage(texte, nombre):
     for i in range(len(texte)):
         mots = texte[i].split(' ')
         for mot in mots:
+            #retirer les d' et les virgules qui peuvent entourer un personnage
+            mot = mot.replace("d'", '')
+            mot = mot.replace(",", '')
             if mot in romain and mot not in personnage_romains:
                 for indice in range(len(romain)):
                     if romain[indice] == mot:
