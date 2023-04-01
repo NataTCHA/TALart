@@ -32,6 +32,16 @@ def categorisation_personnage(texte, nombre):
             #retirer les d' et les virgules qui peuvent entourer un personnage
             mot = mot.replace("d'", '')
             mot = mot.replace(",", '')
+            mot = mot.replace("-", '')
+            mot = mot.replace("l'", '')
+            mot = mot.replace("_", ' ')
+            mot = mot.replace(".", ' ')
+            mot = mot.replace("^", ' ')
+            mot = mot.replace("(", ' ')
+            mot = mot.replace(")", ' ')
+            mot = mot.replace("?", ' ')
+            mot = mot.replace("qu'", ' ')
+            mot = mot.replace("'", '')
             if mot in romain and mot not in personnage_romains:
                 for indice in range(len(romain)):
                     if romain[indice] == mot:

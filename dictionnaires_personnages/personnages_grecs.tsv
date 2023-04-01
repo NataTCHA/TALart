@@ -1,10 +1,11 @@
 personnage,occurence,genre
-apollon,485,M
+apollon,518,M
 muses,24,F
 nemesis,25,M
+alexandre,159,M
 harmonie,4,F
 hecate,12,F
-hermes,107,M
+hermes,118,M
 amphion,6,M
 zethus,5,M
 hebe,16,F
@@ -16,12 +17,12 @@ hygie,21,F
 aristee,4,M
 menelas,22,M
 atlas,7,M
-eros,58,M
-aphrodite,378,F
+eros,63,M
+aphrodite,424,F
 dionysos,74,M
-artemis,63,F
+artemis,65,F
 ares,11,M
-athena,200,F
+athena,216,F
 enee,17,M
 medee,18,F
 dioscures,21,M
@@ -36,7 +37,7 @@ charites,4,F
 demeter,27,F
 poseidon,26,M
 chiron,12,M
-adonis,21,M
+adonis,22,M
 penthesilee,12,F
 eris,2,F
 jason,10,M
@@ -44,20 +45,23 @@ psyche,35,F
 pelee,17,M
 helios,9,M
 selene,8,F
-heracles,116,M
+heracles,119,M
 andromaque,5,F
 endymion,7,M
 promethee,14,M
+helene ,2,F
 boree,11,M
 minos,5,M
 hades,5,M
 glaucos,2,M
 orithye,1,F
+leda ,2,F
 ino,2,F
 hephaistos,2,M
 persephone,2,F
 hypnos,8,M
 thanatos,13,M
+ulysse ,3,M
 attis,2,M
 cadmos,2,M
 circe,2,F
@@ -66,3 +70,4 @@ asclepios,7,M
 codros,1,M
 arcas,1,M
 amphiaraos,2,M
+achille ,1,M
