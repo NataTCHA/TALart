@@ -34,6 +34,4 @@ Thème : TM
 - [x] Faire moyenne et écart type par appelation  thème
 2) faire des moyennes dans les appelations --> parser dans appelation
 - Faire un fonction qui avec spacy trouve les pos dans les appelations et les met en relation avec le thème.
-
-- [x] faire un programme qui compte des adj par appelation , nous venons de faire un comptage pour chaque adj 
-- [ ] relancer ce programme avec le bon tsv
+- [ ] voir le model toppic de spacy
