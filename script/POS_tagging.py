@@ -19,15 +19,16 @@ def POS_tagging(fichier):
     # nv_doc[row].write(f"\n")
     for token in doc:
         # On ignore les caractères d'espacement ou de retour à la ligne
-        if token.text == " " or token.text == "\n":
+        if token.text == " ":
+            continue
+        if token.text == "\n":
             # nv_doc.write(f"\n")
             lemma.write(f"\n")
         else:
             # On récupère le mot-forme, le lemme et l'annotation POS du mot traité et on les ajoute au document de sortie
-            a,b, c = token.text, token.pos_, token.morph
-            d = token.lemma_
+            a,b,c,d = token.text, token.pos_, token.morph, token.lemma_
             # nv_doc.write(f" / {a} / {b} , {c} , ")
-            lemma.write(f"/ {a} / {d} ")
+            lemma.write(f"{a} : {d} / ")
 
     # nv_doc.close()
     lemma.close()
