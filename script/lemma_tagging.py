@@ -2,7 +2,7 @@ import spacy
 import argparse
 
 
-def POS_tagging(fichier:str, dest:str):
+def lemma_tagging(fichier:str, destination:str):
     """fonction servant à annoter un fichier .txt passé en argument en POS avec Spacy"""
     texte = ""
     # Chargement du modéle d'annotation du français le plus précis de Spacy
@@ -16,19 +16,20 @@ def POS_tagging(fichier:str, dest:str):
     # Tokenization et traitement de la str
     doc = nlp(texte)
 
-    nv_doc = open(dest,"a")
+    lemma = open(f"./output/{destination}", "a")
     for token in doc:
         # On ignore les caractères d'espacement ou de retour à la ligne
         if token.text == " ":
             continue
         if token.text == "\n":
-            nv_doc.write(f"\n")
+            lemma.write(f"\n")
         else:
-            # On récupère le mot-forme et l'annotation POS du mot traité et on les ajoute au document de sortie
-            a,b,c = token.text, token.pos_, token.morph 
-            nv_doc.write(f"/ {a} / {b} | {c} ")
+            # On récupère le mot-forme, le lemme du mot traité et on les ajoute au document de sortie
+            a,b = token.text, token.lemma_
+            lemma.write(f"{a} : {b} / ")
 
-    nv_doc.close()
+    lemma.close()
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -36,4 +37,4 @@ if __name__ == "__main__":
     parser.add_argument("output", help="output file")
     args = parser.parse_args()
 
-    POS_tagging(args.corpus_file, args.output)
+    lemma_tagging(args.corpus_file, args.output)
