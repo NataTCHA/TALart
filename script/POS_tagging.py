@@ -12,7 +12,7 @@ def POS_tagging(fichier:str, dest:str):
     # Chargement du modéle d'annotation du français le plus précis de Spacy
     nlp = spacy.load("fr_core_news_lg")
     
-    c = open(f"./output/txtCorpus/{fichier}","r")
+    c = open(f"../Corpus/{fichier}","r")
     for line in c:
         texte += line.strip()+"\n"
     c.close()

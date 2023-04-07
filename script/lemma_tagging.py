@@ -14,7 +14,7 @@ def lemma_tagging(fichier:str, destination:str):
     # Chargement du modéle d'annotation du français le plus précis de Spacy
     nlp = spacy.load("fr_core_news_lg")
     
-    c = open(f"{fichier}","r")
+    c = open(f"../Corpus/{fichier}","r")
     for line in c:
         texte += line.strip()+"\n"
     c.close()
