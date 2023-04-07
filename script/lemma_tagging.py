@@ -22,7 +22,7 @@ def lemma_tagging(fichier:str, destination:str):
     # Tokenization et traitement de la str
     doc = nlp(texte)
 
-    lemma = open(f"./output/{destination}", "a")
+    lemma = open(f"../Corpus/{destination}", "a")
     for token in doc:
         # On ignore les caractères d'espacement ou de retour à la ligne
         if token.text == " ":

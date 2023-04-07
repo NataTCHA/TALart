@@ -20,7 +20,7 @@ def POS_tagging(fichier:str, dest:str):
     # Tokenization et traitement de la str
     doc = nlp(texte)
 
-    nv_doc = open(f"./output/{dest}","a")
+    nv_doc = open(f"../Corpus/{dest}","a")
     for token in doc:
         # On ignore les caractères d'espacement ou de retour à la ligne
         if token.text == " ":
