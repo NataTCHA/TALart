@@ -4,7 +4,8 @@ import argparse
 """Ce code permet d'annoter (POS + annotation morpho-syntaxique) un corpus en format txt stocker dans le dossier script/output/txtCorpus.
 Il suffit de donner en premier argument le nom du corpus existant.
 Il sort, dans le même dossier, un fichier au format voulu donné en deuxième argument
-ex : python3 POS_tagging.py AC.txt AC_POS_ann.txt """
+ex : python3 POS_tagging.py AC.txt AC_POS_ann.txt 
+Pour regex : / token / POS | Gender=...|Number=... """
 
 def POS_tagging(fichier:str, dest:str):
     """fonction servant à annoter un fichier .txt passé en argument en POS avec Spacy"""

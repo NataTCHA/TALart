@@ -5,7 +5,8 @@ import argparse
 """Ce code permet d'annoter les lemmes d'un corpus en format txt stocker dans le dossier script/output/txtCorpus.
 Il suffit de donner en premier argument le nom du corpus existant.
 Il sort, dans le même dossier, un fichier au format voulu donné en deuxième argument
-ex : python3 lemma_tagging.py AC.txt AC_lemma_ann.txt """
+ex : python3 lemma_tagging.py AC.txt AC_lemma_ann.txt 
+Pour regex : / token / POS | Gender=...|Number=..."""
 
 
 def lemma_tagging(fichier:str, destination:str):
