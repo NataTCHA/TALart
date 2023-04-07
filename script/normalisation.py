@@ -15,4 +15,4 @@ def normalisation(mot):
     mot_normalise = unidecode((mot.replace(",", "")).capitalize())
     return mot_normalise
 
-normalisation("qu'Apollon")
+normalisation(mot)
