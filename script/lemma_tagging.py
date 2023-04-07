@@ -2,6 +2,12 @@ import spacy
 import argparse
 
 
+"""Ce code permet d'annoter les lemmes d'un corpus en format txt stocker dans le dossier script/output/txtCorpus.
+Il suffit de donner en premier argument le nom du corpus existant.
+Il sort, dans le même dossier, un fichier au format voulu donné en deuxième argument
+ex : python3 lemma_tagging.py AC.txt AC_lemma_ann.txt """
+
+
 def lemma_tagging(fichier:str, destination:str):
     """fonction servant à annoter un fichier .txt passé en argument en POS avec Spacy"""
     texte = ""
