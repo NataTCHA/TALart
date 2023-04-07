@@ -17,6 +17,7 @@ Thème Long : TL
 
 - [x] Comprendre le projet
 - [x] Regrouper la totalité des appelations et les laisser trier pour faciliter les stats
+- [x] faire un makergraph 
 - [ ] corriger les pos verbe catastrophique
 - [ ] faire les graphs AC et AS pour les verbes
 - [ ] utiliser le concordancier et chercher les verbes( d'etait et les verbes les plus utilisé top 20?)/adj et voir ce qui les entoure , quel perso, genre, etc.
