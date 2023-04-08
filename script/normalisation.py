@@ -12,7 +12,12 @@ def normalisation(mot):
     mot = mot.replace("'", '')
     mot = mot.replace("d'", '')
     mot = mot.replace(",", '')
-    mot_normalise = unidecode((mot.replace(",", "")).capitalize())
+    mot = mot.replace(",", "")
+    mot_normalise = ""
+    for i in range(len(mot)):
+        if i ==0:
+            mot_normalise+= mot[0]
+        else:
+            mot_normalise+= mot[i].lower()
+    mot_normalise = unidecode(mot_normalise)
     return mot_normalise
-
-normalisation(mot)
