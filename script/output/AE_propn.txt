@@ -87,7 +87,9 @@ Genetrix
 Vénus
 Vénus
 Cnide
+Vénus
 Arles
+Vénus
 Arles
 Diane
 Arles
@@ -114,6 +116,7 @@ Périphorétos
 Achilléennes
 Renommé
 Achille
+Minerve
 Anapauomène
 Byblis
 Apescopeuon
@@ -144,6 +147,7 @@ Sélinonte
 Pharsale
 Louvre
 Myron
+Parques
 Cariatides
 Apollon
 Choiseul
@@ -170,6 +174,7 @@ Germanicus
 Louvre
 Asarotos
 oecos
+Vénus
 Vénus
 Ptéron
 Pandore
@@ -278,11 +283,13 @@ Dioné
 Apollon
 Vénus
 Mercure
+Jupiter
 Impérator
 Méduse
 Europe
 Boëthus
 Myron
+Mars
 Orsay
 Aphrodite
 Ouraniay
@@ -300,6 +307,7 @@ Asclépios
 Albani
 Antinoüs
 Cnide
+Vénus
 Médicis
 Aphrodite
 Ourania
@@ -370,6 +378,7 @@ Marseille
 Lyon
 Marciane
 Cavalier
+Vénus
 Vienne
 Constantinople
 Aphrodite

@@ -34,11 +34,15 @@ def count_noun_occurrences(file, sortie, sortie2):
             if b == "NOUN" and a not in romain and a not in grec and a != "-":
                 count_noun+=1
                 print(a, b)
-                liste_noun.append(a)
+                liste_noun.append(a.lower())
             elif b=="PROPN" and a != "-":
                 count_propn+=1
                 print(a, b)
                 liste_propn.append(a)
+            for e in romain:
+                if a == e and b != "PROPN":
+                    liste_propn.append(a)
+
     pos_noun.write("Il y a "+str(count_noun)+" noms communs dans les "+ file+"\n")
     pos_propn.write("Il y a "+str(count_propn)+" noms communs dans les "+ file+"\n")
     for noun in liste_noun:

@@ -2,6 +2,7 @@ Il y a 708 noms communs dans les TL.txt
 Alexibius
 Hérœa
 Apollon
+Grâces
 Plutus
 Latonne
 Sparte
@@ -83,6 +84,7 @@ Amphitryon
 Alcmène
 Hercule
 Hippolyte
+Jupiter
 Lecythion
 Leontion
 Épicure
@@ -96,8 +98,10 @@ Satyre
 Sémiramis
 Ulysse
 Vénus
+Grâces
 Laomédon
 Hercule
+Neptune
 Phlionte
 Théodore
 chasseurs
@@ -149,6 +153,7 @@ Gaulois
 Dirké
 Antiope
 Zéthos
+Jupiter
 ivoire
 Nil
 Zéthus
@@ -172,11 +177,13 @@ Héra
 Minerve
 Minerve
 Minerve
+Vulcain
 Anési
 dora
 OEnochoé
 Vulci
 Bacchus
+Vulcain
 Bacchus
 Achille
 Penthésilée
@@ -267,8 +274,11 @@ Iole
 Jupiter
 Sérapis
 Jupiter
+Jupiter
 métamorphosé
 Antiope
+Mars
+Vénus
 Amour
 Mercure
 Syrinx
@@ -283,6 +293,8 @@ Psyché
 syrinx
 Panisque
 Thésée
+Vénus
+Vénus
 Alhéna
 Minerve
 Ulysse
@@ -290,6 +302,7 @@ Ithaque
 Adonis
 Méléagre
 Amour
+Mars
 Hercule
 Héraclides
 Argos
@@ -320,10 +333,13 @@ Lycus
 Thèbes
 Libation
 Esculape
+Mars
 Vénus
 Amour
+Mars
 Vénus
 Amour
+Neptune
 Vénus
 Amour
 Néoptolème
@@ -333,6 +349,7 @@ Remus
 Fauslulus
 Satyre
 Thésée
+Vénus
 Vénus
 Amour
 Pan
@@ -357,6 +374,7 @@ Jupiter
 Serapis
 Mercure
 Némésis
+Mars
 Vénus
 Vénus
 Amour
@@ -365,6 +383,7 @@ Apollon
 Bacchus
 Ariane
 Caracalla
+Mars
 Victor
 Cybèle
 Deucalion
@@ -373,6 +392,7 @@ Osiris
 raisin
 Jupiter
 Mercure
+Neptune
 Mercure
 Minerve
 Silène
@@ -419,6 +439,7 @@ Cernunnos
 Mercure
 Epona
 Foulon
+Vénus
 chasse-mouches
 foulon
 Sabinianus
@@ -613,7 +634,9 @@ Minerve
 Palamède
 Ménélas
 Hélène
+Neptune
 Thésée
+Neptune
 Satyres
 PELEV
 Thétis
@@ -621,6 +644,7 @@ Thétis
 Télété
 Thrace
 Procné
+Vulcain
 Olympe
 Jupiter
 Nérée
@@ -636,7 +660,9 @@ Mercure
 Térée
 Philomèle
 Procné
+Vulcain
 Minerve
+Vulcain
 Actéon
 rocher
 Diane
@@ -654,6 +680,7 @@ Achille
 Chio
 Lycomède
 Ulysse
+Vénus
 BOULANGER
 Cérès
 Diane

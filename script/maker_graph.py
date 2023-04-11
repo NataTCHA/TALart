@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-with open('AE_verb.txt', 'r') as f:
+with open('output/ACM_noun.txt', 'r') as f:
     word_count = {}
     for line in f:
         words = line.split()
@@ -22,5 +22,5 @@ with open('AE_verb.txt', 'r') as f:
     plt.bar(x, y, color=colors[:len(x)])
     plt.xlabel('Mots')
     plt.ylabel('Nombre d\'occurrences')
-    plt.title('Top 20 des verbes les plus fréquents pour AE')
+    plt.title('Top 20 des noms communs les plus fréquents pour ACM')
     plt.show()
