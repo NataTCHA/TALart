@@ -1,0 +1,24 @@
++------------------------------------+-----------+
+| Structure syntaxique               | Fréquence |
++------------------------------------+-----------+
+| *PROPN*                            | 33        |
+| *PROPN* | ADJ                      | 24        |
+| *PROPN* | VERB                     | 22        |
+| NOUN | CCONJ | *PROPN*             | 14        |
+| NOUN | VERB | *PROPN*              | 10        |
+| NOUN | ADP | *PROPN*               | 10        |
+| ADP | *PROPN*                      | 8         |
+| PROPN | CCONJ | *PROPN*            | 7         |
+| *PROPN* | CCONJ | PROPN            | 7         |
+| *PROPN* | ADP | NOUN               | 7         |
+| PROPN | ADP | *PROPN*              | 5         |
+| *PROPN* | NOUN                     | 5         |
+| *PROPN* | ADP | PROPN              | 5         |
+| *PROPN* | ADV                      | 4         |
+| PROPN | AUX | *PROPN*              | 3         |
+| NOUN | ADJ | CCONJ | ADP | *PROPN* | 3         |
+| *PROPN* | AUX | PROPN              | 3         |
+| PROPN | NOUN | *PROPN*             | 2         |
+| *PROPN* | NOUN | PROPN             | 2         |
+| *PROPN* | CCONJ | ADJ              | 2         |
++------------------------------------+-----------+
