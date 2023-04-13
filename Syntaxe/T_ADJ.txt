@@ -1,0 +1,24 @@
++--------------------------------------------------------------------------------------------------------------------------------+-----------+
+| Structure syntaxique                                                                                                           | Fréquence |
++--------------------------------------------------------------------------------------------------------------------------------+-----------+
+| NOUN | *ADJ*                                                                                                                   | 32        |
+| PROPN | *ADJ*                                                                                                                  | 24        |
+| *ADJ*                                                                                                                          | 4         |
+| NOUN | *ADJ* | CCONJ | ADP | PROPN                                                                                             | 3         |
+| VERB | *ADJ*                                                                                                                   | 2         |
+| PROPN | CCONJ | *ADJ*                                                                                                          | 2         |
+| NOUN | VERB | DET | NOUN | *ADJ*                                                                                               | 2         |
+| NOUN | *ADJ* | NOUN                                                                                                            | 2         |
+| NOUN | *ADJ* | ADP | PROPN                                                                                                     | 2         |
+| NOUN | *ADJ* | ADP | NOUN                                                                                                      | 2         |
+| NOUN | *ADJ* | ADP | DET | NOUN                                                                                                | 2         |
+| ADJ | *ADJ*                                                                                                                    | 2         |
+| *ADJ* | ADJ                                                                                                                    | 2         |
+| X | *ADJ* | ADP | NOUN | VERB | PRON | PROPN | CCONJ | PROPN | PROPN | CCONJ | ADP | DET | NOUN                                | 1         |
+| NOUN | NOUN | NOUN | ADJ | NOUN | ADJ | NOUN | *ADJ* | NOUN | PROPN                                                            | 1         |
+| NOUN | NOUN | NOUN | ADJ | NOUN | *ADJ* | NOUN | ADJ | NOUN | PROPN                                                            | 1         |
+| NOUN | NOUN | NOUN | *ADJ* | NOUN | ADJ | NOUN | ADJ | NOUN | PROPN                                                            | 1         |
+| NOUN | ADJ | PROPN | PROPN | NOUN | VERB | DET | NOUN | PROPN | ADV | NOUN | *ADJ* | PROPN | PROPN | ADP | NOUN | PROPN | VERB | 1         |
+| NOUN | *ADJ* | PROPN | PROPN | NOUN | VERB | DET | NOUN | PROPN | ADV | NOUN | ADJ | PROPN | PROPN | ADP | NOUN | PROPN | VERB | 1         |
+| NOUN | *ADJ* | CCONJ | ADJ | NOUN | ADJ | NOUN | VERB | DET | NOUN | NOUN | VERB | ADJ | NOUN | ADJ                            | 1         |
++--------------------------------------------------------------------------------------------------------------------------------+-----------+
