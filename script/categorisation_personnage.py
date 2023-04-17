@@ -6,7 +6,7 @@ from unidecode import unidecode
 def categorisation_personnage(texte, nombre):
     #creer des listes pour les personnages romains et grecs + leurs occurence et leur genre + autres
     #read other doc
-    df = pandas.read_csv("personnage_greco_romain.csv")
+    df = pandas.read_csv("../dictionnaires_personnages/personnage_greco_romain.csv")
     df=df.astype(str)
     romain = list(df['Romain'])
     romain_normal = []
@@ -25,6 +25,7 @@ def categorisation_personnage(texte, nombre):
     genre = list(df['Genre'])
     personnage_romains = {}
     personnage_grecs = {}
+    personnage_total = personnage_romains | personnage_grecs
     autres_personnages = {}
     for i in range(len(texte)):
         mots = texte[i].split(' ')
@@ -46,7 +47,7 @@ def categorisation_personnage(texte, nombre):
                 for indice in range(len(romain)):
                     if romain[indice] == mot:
                         personnage_romains[mot]=[int(nombre[i]), genre[indice]]
-                        print(personnage_romains)
+                        #print(personnage_romains)
             elif mot in romain and mot in personnage_romains:
                 for key, value in personnage_romains.items():
                     if key == mot:
@@ -55,7 +56,7 @@ def categorisation_personnage(texte, nombre):
                 for indice in range(len(grec)):
                     if grec[indice] == mot:
                         personnage_grecs[mot]=[int(nombre[i]), genre[indice]]
-                        print(personnage_grecs)
+                        #print(personnage_grecs)
             elif mot in grec and mot in personnage_grecs:
                 for key, value in personnage_grecs.items():
                     if key == mot:
@@ -64,27 +65,28 @@ def categorisation_personnage(texte, nombre):
                 autres_personnages[mot]=[int(nombre[i])]
      
     #create new tsv
-    with open('personnages_romains.tsv', 'w', encoding='UTF8') as file:
+    with open('../dictionnaires_personnages/personnages_romains.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
         header = ['personnage', 'occurence', 'genre']
         writer.writerow(header)
         for cle, valeur in personnage_romains.items():
             data = [cle, valeur[0], valeur[1]]
             writer.writerow(data)
-    with open('personnages_grecs.tsv', 'w', encoding='UTF8') as file:
+    with open('../dictionnaires_personnages/personnages_grecs.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
         header = ['personnage', 'occurence', 'genre']
         writer.writerow(header)
         for cle, valeur in personnage_grecs.items():
             data = [cle, valeur[0], valeur[1]]
             writer.writerow(data)
-    with open('autres_personnages.tsv', 'w', encoding='UTF8') as file:
+    with open('../dictionnaires_personnages/autres_personnages.tsv', 'w', encoding='UTF8') as file:
         writer=csv.writer(file)
         header = ['personnage', 'occurence', 'genre']
         writer.writerow(header)
         for cle, valeur in autres_personnages.items():
             data = [cle, valeur[0]]
             writer.writerow(data)
+    return personnage_total
 
 
 #il faut normaliser et tout mettre en minuscule! retirer les accents ! et retirer les points et les tirets
@@ -93,9 +95,11 @@ def categorisation_personnage(texte, nombre):
 def normalisation(texte, nombre):
     texte_normal = []
     for e in texte:
-        e = unidecode(e)
-        e = e.lower()
-        texte_normal.append(e)
+    	e = e.strip()
+    	e = unidecode(e)
+    	e = e.lower()
+    	texte_normal.append(e)
+    return texte_normal
     categorisation_personnage(texte_normal, nombre)  
 
 #cette fonction reprend celle du programme (dico_balise) mais en ajoutant la variable texte et sans lancer les autres fonctions
@@ -121,5 +125,6 @@ def dictionnaire():
     for e in nombre:
         total_balise += int(e)  
     normalisation(texte, nombre)    
-dictionnaire()
+    
+
 
