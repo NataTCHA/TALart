@@ -1,0 +1,990 @@
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anathema / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Fortune / NOUN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Bacchus / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Thespiades / NOUN | Gender=Masc|Number=Plur 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing / colossal / ADJ | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Esculape / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Esculape / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Junon / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Latone / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Mercure / PROPN |  
+/ YApoxyomenos / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Hermès / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Ganymède / NOUN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Alexétère / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing / Uranie / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Canon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Diadumène / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Astiag / NOUN | Gender=Masc|Number=Plur / alitantes / NOUN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Canéphores / NOUN | Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Thyades / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Doryphore / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Amour / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Dédale / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Esculape / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Faune / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Mercure / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hygie / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hécate / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hécate / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Latone / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing / Hygie / ADJ | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Victoire / NOUN | Gender=Fem|Number=Sing 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Adorantes / NOUN | Gender=Masc|Number=Plur 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Bacchantes / NOUN | Gender=Fem|Number=Plur 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Canéphores / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / empereur / NOUN | Gender=Masc|Number=Sing / Macrin / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / trois / NUM | NumType=Card / Grâces / NOUN | Gender=Fem|Number=Plur 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Achille / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Bacchus / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hermès / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Saturne / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Cérès / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Jocaste / NOUN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Sapho / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vesta / PROPN |  
+/ d' / DET | Definite=Ind|Number=Plur|PronType=Art / autres / ADJ | Number=Plur / sauroctones / NOUN | Gender=Fem|Number=Plur 
+/ L’ / DET | Definite=Def|Number=Sing|PronType=Art / Hermès / PROPN | Number=Sing 
+/ l’ / DET | Definite=Def|Number=Sing|PronType=Art / Hermès / PROPN | Number=Sing 
+/ l’ / DET | Definite=Def|Number=Sing|PronType=Art / Hermès / PROPN | Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Sauroctone / NOUN | Gender=Masc|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ l’ / DET | Definite=Def|Number=Sing|PronType=Art / Antinoüs / PROPN | Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hermès / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Antinoüs / PROPN | Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Lantin / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hermès / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Méléagre / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ ( / PUNCT |  / Germanicus / PROPN |  / ) / PUNCT |  
+/ ( / PUNCT |  / Pudicité / PROPN |  / ) / PUNCT |  
+/ , / PUNCT |  / la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ Cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Aphrodite / PROPN |  
+/ Cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Vénus / PROPN |  
+/ Cette / DET | Gender=Fem|Number=Sing|PronType=Dem / vénus / ADV |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / « / PUNCT |  / Vénus / PROPN |  / » / PUNCT |  
+/ Une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / « / PUNCT |  / Vénus / PROPN |  / » / PUNCT |  
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ de / ADP |  / la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ de / ADP |  / la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Arlésiennes / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Arlésiennes / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Arlésiennes / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Germanicus / PROPN |  
+/ généalogique / ADJ | Number=Sing / des / ADP | Definite=Def|Number=Plur|PronType=Art / Arlésiennes / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing / - / PROPN | Gender=Masc|Number=Sing / Auguste / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Arlésienne / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / antique / PROPN | Number=Sing / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / antique / PROPN | Number=Sing / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / antique / ADJ | Number=Sing / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vestale / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / belle / ADJ | Gender=Fem|Number=Sing / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / belle / ADJ | Gender=Fem|Number=Sing / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / belle / ADJ | Gender=Fem|Number=Sing / anadyomène / VERB | Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / « / PUNCT |  / Vénus / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / « / PUNCT |  / Vénus / PROPN |  / » / PUNCT |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Cincinnatus / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Aphrodite / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / deux / NUM | NumType=Card / Vénus / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / admirable / ADJ | Number=Sing / Vénus / PROPN |  
+/ notre / DET | Number=Sing|Poss=Yes / Vénus / PROPN |  
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Éros / PROPN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Arlésienne / ADJ | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Artémis / NOUN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ Periboetos / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / tyrannicides / NOUN | Gender=Masc|Number=Plur / Harmodius / PROPN |  / et / CCONJ |  / Aristogiton / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Langon / PROPN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Alexandre / PROPN | Gender=Masc|Number=Sing / Pâris / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing / Toscan / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apoxyomène / NOUN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Autolycus / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing / triomphal / VERB | Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cataguse / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Pseliuménè / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Stéphanuse / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Diadumène / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Doryphore / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Janus / PROPN | Gender=Masc|Number=Sing / double / ADJ | Number=Sing 
+/ le / PRON | Gender=Masc|Number=Sing|Person=3 / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  / Olympien / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  / Olympien / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Mercure / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Splanchnoptès / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Doryphore / NOUN | Gender=Masc|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Mercure / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Pancratiaste / PROPN | Number=Sing 
+/ tyrannicides / VERB | Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part / Harmodius / PROPN |  / et / CCONJ |  / Aristogiton / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Doryphore / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing / Hageter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Héphestion / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Mercure / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Persée / VERB | Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Philippe / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Périclès / PROPN | Gender=Masc|Number=Sing / Olympien / ADJ | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Cérès / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hygie / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Junon / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Latone / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Lysimakhè / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / autre / ADJ | Number=Sing / Minerve / PROPN |  
+/ Anapauomenos / PROPN | Gender=Masc|Number=Sing 
+/ Apescopeuon / PROPN |  
+/ I' / X |  / Anapauomène / PROPN |  
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / vénus / ADV |  
+/ Son / DET | Number=Sing|Poss=Yes / Iphigénie / PROPN |  
+/ Son / DET | Number=Sing|Poss=Yes / Jupiter / PROPN |  
+/ Stephaneplocos / PROPN | Gender=Fem|Number=Sing 
+/ Sthephanopolis / PROPN |  
+/ Syngénicon / PROPN |  
+/ ce / PRON |  / Jupiter / PROPN |  
+/ cet / DET | Gender=Masc|Number=Sing|PronType=Dem / Ialysus / ADV |  
+/ héméresios / NOUN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Ammolade / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Ialysus / NOUN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Iris / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médée / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Nécromancie / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Paralus / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Thésée / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / douze / NUM | NumType=Card / dieux / NOUN | Gender=Masc|Number=Plur 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Gorgone / NOUN | Gender=Fem|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Énée / PROPN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Achille / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Ajax / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Antée / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Bacchus / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Bacchus / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Bacchus / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Cadmus / PROPN |  
+/ un / ADJ | Gender=Masc|Number=Sing / Clitus / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Habron / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hyacinthe / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Marsyas / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Ménandre / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Neptune / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Pan / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Thésée / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Tlépolème / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / petit / ADJ | Gender=Masc|Number=Sing / dieu / NOUN | Gender=Masc|Number=Sing / Pan / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / très / ADV |  / bel / ADJ | Gender=Masc|Number=Sing / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Alcmène / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Atalante / ADJ | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Calypso / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Cassandre / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Clytemnestre / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Cydippe / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Danaé / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Laodamie / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Médée / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Némée / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Pénélope / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Sapho / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Scylla / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Scylla / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Victoire / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / très / ADV |  / belle / ADJ | Gender=Fem|Number=Sing / Hésione / PROPN | Gender=Fem|Number=Sing 
+/ Son / DET | Number=Sing|Poss=Yes / Apollon / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Apollons / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Moscophore / NOUN | Gender=Masc|Number=Sing 
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Moscophore / NOUN | Gender=Masc|Number=Sing 
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Tyrannicides / NOUN | Number=Plur 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Niké / PROPN | Gender=Fem|Number=Sing 
+/ leDiscobole / PROPN |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Athéna / PROPN | Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ Zeus / PROPN | Gender=Fem|Number=Sing / olympien / ADJ | Gender=Masc|Number=Sing 
+/ de / ADP |  / Cariatides / PROPN |  
+/ de / ADP |  / Sosandra / PROPN |  
+/ de / ADP |  / Sosandra / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Victoires / NOUN | Gender=Masc|Number=Plur 
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Marsyas / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Niké / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Parthénos / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Parthénos / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Promachos / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Promachos / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Sosandra / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Victoire / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Victoire / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vic¬ / PROPN | Gender=Masc|Number=Sing / toire / ADJ | Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Képhisos / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Marsyas / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Charités / NOUN | Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Charites / NOUN | Gender=Fem|Number=Plur 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Niké / PROPN | Gender=Fem|Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ de / ADP |  / Laocoon / PROPN |  
+/ de / ADP |  / Laocoon / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Discobole / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / PROPN |  
+/ du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Olympien / ADJ | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / amazone / NOUN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hermès / PROPN |  
+/ – / PROPN |  / Laocoon / PROPN |  / . / PUNCT |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Canéphores / PROPN |  
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Caryatides / NOUN | Number=Plur 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Hermérotes / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Asarotos / PROPN | Number=Sing / oecos / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Bonne / ADJ | Gender=Fem|Number=Sing / Fortune / NOUN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Désir / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / sphinx / NOUN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Appiades / NOUN | Gender=Masc|Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Caryatides / NOUN | Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Thespiades / NOUN | Gender=Masc|Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / neuf / NUM | Gender=Masc|NumType=Card / Muses / NOUN | Gender=Fem|Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / quatorze / NUM | NumType=Card / Nations / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / quatorze / NUM | NumType=Card / Nations / PROPN |  / , / PUNCT |  / autour / ADV |  / du / ADP | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / théâtre / NOUN | Gender=Masc|Number=Sing / de / ADP |  / Pompées / PROPN |  / , / PUNCT |  / sont / AUX | Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin / de / ADP |  / Coponius / PROPN |  
+/ quatre / NUM | NumType=Card / Satyres / PROPN | Gender=Masc|Number=Sing 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Esculape / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Neptune / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Phaéton / NOUN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hécube / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Latone / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Minerve / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN |  
+/ Niké / PROPN |  / , / PUNCT |  
+/ - / PROPN |  / Apollon / PROPN |  / , / PUNCT |  
+/ - / PROPN |  / Bacchus / PROPN |  
+/ - / PROPN |  / Bacchus / PROPN |  
+/ - / PROPN |  / Bacchus / PROPN |  
+/ - / PROPN |  / Bacchus / PROPN |  / , / PUNCT |  
+/ - / PROPN |  / Iris / PROPN |  
+/ - / PROPN |  / Minerve / PROPN |  
+/ - / PUNCT |  / Éros / X |  
+/ - / PROPN | Number=Sing / Éros / PROPN |  / , / PUNCT |  
+/ -Éros / X |  
+/ . / PUNCT |  / Ganymède / PROPN |  / , / PUNCT |  
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Gorgonium / NOUN | Gender=Masc|Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Gorgonium / NOUN | Gender=Masc|Number=Sing 
+/ -Thésée / NOUN |  
+/ . / PUNCT |  / Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Gorgvnium / NOUN | Gender=Masc|Number=Sing 
+/ - / PUNCT |  / L' / DET | Definite=Def|Number=Sing|PronType=Art / Amour / PROPN | Number=Sing 
+/ - / PUNCT |  / L' / DET | Definite=Def|Number=Sing|PronType=Art / initiation / NOUN | Gender=Fem|Number=Sing 
+/ - / PUNCT |  / Un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / acteur / NOUN | Gender=Masc|Number=Sing 
+/ - / PUNCT |  / Un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / aurige / NOUN | Gender=Fem|Number=Sing 
+/ - / PUNCT |  / Un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / éphèbe / NOUN | Gender=Masc|Number=Sing 
+/ - / PUNCT |  / Un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / éphèbe / NOUN | Gender=Masc|Number=Sing 
+/ - / PUNCT |  / Danse / NOUN | Gender=Fem|Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / rhéteur / NOUN | Gender=Masc|Number=Sing / Gorgias / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Lemnienne / PROPN | Gender=Fem|Number=Sing 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Lemnia / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / prothésis / NOUN | Gender=Masc|Number=Sing 
+/ ( / PUNCT |  / Ariane / PROPN | Gender=Fem|Number=Sing / ? / PUNCT |  / ) / PUNCT |  
+/ . / PUNCT |  / Canope / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Commode / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Mars / NOUN | Gender=Masc|Number=Sing / Gradivus / PROPN |  
+/ . / PUNCT |  / Minerve / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Abondance / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Esculape / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Fortune / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Fortune / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Victoire / PROPN | Gender=Masc|Number=Sing 
+/ ; / PUNCT |  / Néréide / PROPN |  / . / PUNCT |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Tibicen / PROPN | Gender=Masc|Number=Sing 
+/ lePalladium / NOUN | Gender=Masc|Number=Sing 
+/ — / PUNCT |  / Cavalier / PROPN |  / . / PUNCT |  
+/ — / PUNCT |  / Curtius / PROPN |  / . / PUNCT |  
+/ — / PUNCT |  / Hygie / NOUN | Gender=Fem|Number=Sing / ( / PUNCT |  / ? / PUNCT |  / ) / PUNCT |  / . / PUNCT |  
+/ — / PUNCT |  / Lunus / PROPN |  / . / PUNCT |  
+/ — / PUNCT |  / Saturne / PROPN |  
+/ — / PUNCT |  / Sérapis / PROPN |  
+/ — / PUNCT |  / Vulcain / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Apollon / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Bacchant / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Bacchante / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Bacchus / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Discobole / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Isis / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Les / DET | Definite=Def|Number=Plur|PronType=Art / Dioscures / NOUN | Gender=Fem|Number=Plur / . / PUNCT |  
+/ . / PUNCT |  / Les / DET | Definite=Def|Number=Plur|PronType=Art / trois / NUM | NumType=Card / Grâces / NOUN | Gender=Fem|Number=Plur / . / PUNCT |  
+/ . / PUNCT |  / Léda / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Léda / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Lucrèce / VERB | VerbForm=Inf / . / PUNCT |  
+/ . / PUNCT |  / Mercure / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Mucius / PROPN | Gender=Masc|Number=Sing / Scoevola / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Néréide / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Philosophe / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Sappho / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Victoire / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Vénus / ADV |  / ( / PUNCT |  / ? / PUNCT |  / ) / PUNCT |  
+/ . / PUNCT |  / Vénus / ADV |  / . / PUNCT |  
+/ . / PUNCT |  / Vénus / ADV |  / . / PUNCT |  
+/ Les / DET | Definite=Def|Number=Plur|PronType=Art / trois / NUM | NumType=Card / Grâces / NOUN | Gender=Fem|Number=Plur 
+/ Un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Bacchus / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Bacchus / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ . / PUNCT |  / Hercule / PROPN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Omphale / PROPN | Gender=Fem|Number=Sing 
+/ . / PUNCT |  / Serapis / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Esculape / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Abondance / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Albin / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Bacchante / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Bacchante / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Bacchante / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Biane / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Béesse / PROPN |  / Rome / PROPN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Béesse / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Cicéron / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Crispine / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Crispus / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Dioscure / PROPN |  
+/ . / PUNCT |  / Dioscure / PROPN |  
+/ . / PUNCT |  / Déesse / NOUN | Gender=Fem|Number=Sing / Rome / PROPN | Gender=Masc|Number=Sing 
+/ . / PUNCT |  / Faustine / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Germanicus / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Hercule / PROPN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Hercule / PROPN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Hercule / PROPN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Hésiode / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Juba / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Jupiter / PRON | PronType=Int / . / PUNCT |  
+/ . / PUNCT |  / Laocoon / PROPN |  
+/ . / PUNCT |  / Masque / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Mercure / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Numa / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Plotine / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Pompée / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Pompée / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Ptolémée / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Pyrrhus / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Scipion / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Silène / PROPN |  / . / PUNCT |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Hercule / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / déesse / NOUN | Gender=Fem|Number=Sing / Salus / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Abraxas / NOUN | Gender=Masc|Number=Plur 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Esculape / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Laocoon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ - / PROPN |  / Vénus / PROPN |  
+/ . / PUNCT |  / Apollon / PROPN |  / , / PUNCT |  
+/ . / PUNCT |  / Epona / PROPN | Gender=Fem|Number=Sing / , / PUNCT |  
+/ . / PUNCT |  / La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / déesse / NOUN | Gender=Fem|Number=Sing / Rosmerta / PROPN |  
+/ . / PUNCT |  / Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / dieu / NOUN | Gender=Masc|Number=Sing / Cemunnos / PROPN |  
+/ . / PUNCT |  / Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / forgeron / ADJ | Gender=Masc|Number=Sing / Belliccus / PROPN |  
+/ . / PUNCT |  / Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / peaussier / NOUN | Gender=Masc|Number=Sing / Sabinianus / NOUN | Gender=Masc|Number=Plur 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / déesse / NOUN | Gender=Fem|Number=Sing / Rosmerta / PROPN |  
+/ LES / DET | Definite=Def|Number=Plur|PronType=Art / MOURANTS / NOUN | Gender=Masc|Number=Plur 
+/ LK / PROPN |  / HÉROS / NOUN |  
+/ Pamphile / PROPN | Gender=Masc|Number=Sing / , / PUNCT |  / puisque / SCONJ |  / ses / DET | Number=Plur|Poss=Yes / tableaux / NOUN | Gender=Masc|Number=Plur / encaustiques / ADJ | Number=Plur / dont / PRON | PronType=Rel / nous / PRON | Number=Plur|Person=1 / savons / VERB | Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin / le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / nom / NOUN | Gender=Masc|Number=Sing / , / PUNCT |  / le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Combat / NOUN | Gender=Masc|Number=Sing / de / ADP |  / Pldiunte / NOUN | Gender=Fem|Number=Sing / et / CCONJ |  / la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Victoire / NOUN | Gender=Fem|Number=Sing / des / ADP | Definite=Def|Number=Plur|PronType=Art / Atliéniens / NOUN | Gender=Masc|Number=Plur 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ d' / ADP |  / Athéné / PROPN |  
+/ de / ADP |  / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ des / ADP | Definite=Def|Number=Plur|PronType=Art / Hermès / PROPN |  
+/ l / DET | Definite=Def|Number=Sing|PronType=Art / ' / DET | Definite=Def|Number=Sing|PronType=Art / Arkliigalle / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Athéné / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Centmiresse / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vérité / NOUN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laokoon / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Laokoon^ / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / ZeusOlympien / ADJ | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / roiAntigone / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Diosliures / NOUN | Gender=Fem|Number=Plur 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Mouranls / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Mourants / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Mourants / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Prométhée / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / /Enée / NOUN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Artamènes / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Atlilèle / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hermès / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Héi^os / PRON | NumType=Card 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Héraklès / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Palamède / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Prêtre / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Suppliant / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Alkmène / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Artémis / NOUN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Artémis / NOUN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Athéné / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Centaures / NOUN | Gender=Fem|Number=Plur / se / PRON | Person=3|Reflex=Yes 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Pénélope / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Tonnerre / PROPN | Gender=Masc|Number=Sing 
+/ Ic / PROPN |  / ToiuieiTe / PROPN |  
+/ LA / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / CALOMNIE / NOUN | Gender=Fem|Number=Sing 
+/ LA / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / CALOMNIE / NOUN | Gender=Fem|Number=Sing 
+/ LA / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / CALOMNIE / NOUN | Gender=Fem|Number=Sing 
+/ Les / DET | Definite=Def|Number=Plur|PronType=Art / Mourants / PROPN | Number=Plur 
+/ V / ADJ |  / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ VAncée / NOUN | Gender=Fem|Number=Sing 
+/ VÉ / PROPN |  / - / NOUN | Gender=Masc|Number=Sing / clair / ADJ | Gender=Masc|Number=Sing 
+/ e / PROPN | Gender=Masc|Number=Sing / Mono-cnemon / PRON | Gender=Masc|Number=Plur|Person=3 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Eclair / NOUN | Gender=Masc|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Ca / NOUN | Gender=Fem|Number=Sing / - / DET | Definite=Ind|Number=Sing|PronType=Art / lomnie / PRON | Gender=Fem|Number=Sing|PronType=Dem 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calom / PROPN |  / - / PROPN |  / nie / VERB | Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Fortune / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Fortune / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Foudre / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Foudre / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Foudre / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Grâce / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Foudre / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / lalijsus / ADJ | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / lalijsus / ADJ | NumType=Ord|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Aphrodite / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Ancéc / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / DieuPan / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Kadmus / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Paraiiis / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Tlepolème / ADJ | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Europe / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hermionidc / PROPN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hésione / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Laodamie / PROPN |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / liijdippc / NOUN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Kypris / PROPN |  
+/ Apoxyoménos / PROPN |  
+/ Diadumène / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Athéna / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Athéna / PROPN | Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / tyrannoctones / NOUN | Gender=Fem|Number=Plur 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ - / PUNCT |  / . / PUNCT |  / Muse / PROPN |  / . / PUNCT |  
+/ - / PROPN |  / Aphrodite / PROPN |  / . / PUNCT |  
+/ - / PROPN |  / Ganymèdc / PROPN |  / . / PUNCT |  
+/ Aphrodite / PROPN |  / Anadyomène / PROPN |  
+/ Yomphalos / PROPN |  
+/ Yomphalos / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Ethiopien / NOUN | Gender=Masc|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Centauromachie / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Nuit / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Promachos / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / reine / NOUN | Gender=Fem|Number=Sing / Bérénice / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / sphinx / NOUN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Dioscures / NOUN | Gender=Fem|Number=Plur 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Héraclès / PROPN |  
+/ . / PUNCT |  / Apollon / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / Diane / PROPN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Neptune / NOUN | Gender=Masc|Number=Sing / . / PUNCT |  
+/ . / PUNCT |  / Otus / PROPN |  / . / PUNCT |  
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Vulcain / NOUN | Gender=Masc|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Comédie / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Tragédie / NOUN | Gender=Fem|Number=Sing 
+/ . / PUNCT |  / Antonin / PROPN | Gender=Masc|Number=Sing / ; / PUNCT |  
+/ . / PUNCT |  / Bacchus / PROPN |  / , / PUNCT |  
+/ . / PUNCT |  / Hadrien / PROPN |  / ; / PUNCT |  
+/ . / PUNCT |  / La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / déesse / NOUN | Gender=Fem|Number=Sing / Caelestis / PROPN |  / , / PUNCT |  
+/ . / PUNCT |  / Lucille / PROPN | Gender=Fem|Number=Sing / ; / PUNCT |  
+/ . / PUNCT |  / Vulcain / NOUN | Gender=Masc|Number=Sing / , / PUNCT |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Terre / NOUN | Gender=Fem|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Dioscures / NOUN | Gender=Fem|Number=Plur 
+/ VÉNUS / PROPN |  / . / PUNCT |  
+/ . / PUNCT |  / NARCISSE / NOUN | Gender=Fem|Number=Sing / . / PUNCT |  
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladium / NOUN | Gender=Masc|Number=Sing 
+/ /'Hélène / PROPN |  
+/ /Hélène / PROPN | Number=Sing 
+/ VHélène / VERB | Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 
+/ Y / PRON | Person=3 / Hélène / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Hélène / PROPN | Gender=Fem|Number=Sing 
+/ ' / PUNCT |  / Anadyomône / ADJ | Gender=Fem|NumType=Ord|Number=Sing 
+/ V / ADJ |  / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Alexandre / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Ialysos / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / iacchos / PROPN | Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Paralos / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / Vénus / PROPN |  
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Médée / NOUN | Gender=Fem|Number=Sing 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Ajax / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Ialysos / NOUN | Gender=Fem|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Ialysos / NOUN | Gender=Fem|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / PRON |  / Jupiter / PROPN |  / fmperafor / PROPN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / fameux / ADJ | Gender=Masc / Satyre / PROPN | Gender=Masc|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Diane / PROPN | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Sapho / NOUN | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Sapho / NOUN | Gender=Fem|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Canéphores / NOUN | Number=Plur 
+/ leur / DET | Number=Sing|Poss=Yes / Ajax / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ leur / DET | Number=Sing|Poss=Yes / Bacchus / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ leur / DET | Number=Sing|Poss=Yes / Europe / PROPN | Gender=Fem|Number=Sing 
+/ leur / DET | Number=Sing|Poss=Yes / Médée / NOUN | Gender=Fem|Number=Sing 
+/ leur / DET | Number=Sing|Poss=Yes / Vénus / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / jalysus / VERB | Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ ce / DET | Gender=Masc|Number=Sing|PronType=Dem / Mercure / PROPN |  
+/ cet / DET | Gender=Masc|Number=Sing|PronType=Dem / Apollon / PROPN |  
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Diane / PROPN | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Diane / PROPN | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Sappho / PROPN | Gender=Fem|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Sappho / PROPN | Gender=Fem|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Ammonias / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Bonne / ADJ | Gender=Fem|Number=Sing / fortune / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Paralos / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art /   / SPACE |  / Phryné / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ leur / DET | Number=Sing|Poss=Yes / Vénus / PROPN |  
+/ leur / DET | Number=Sing|Poss=Yes / Vénus / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art /   / SPACE |  / Canon / NOUN | Gender=Masc|Number=Sing 
+/ mes / DET | Number=Plur|Poss=Yes / Canéphores / NOUN | Number=Plur 
+/ sa / DET | Gender=Fem|Number=Sing|Poss=Yes / Médée / NOUN | Gender=Fem|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Ajax / PROPN |  
+/ son / DET | Number=Sing|Poss=Yes / Alexandre / PROPN | Gender=Masc|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes / Ialysos / NOUN | Gender=Fem|Number=Sing 
+/ son / DET | Number=Sing|Poss=Yes /   / SPACE |  / Doryphore / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Cupidon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Hercule / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / superbe / ADJ | Number=Sing / Mercure / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / très / ADV |  / bel / ADJ | Gender=Masc|Number=Sing / Apollon / PROPN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art /   / SPACE |  / Eros / NOUN | Gender=Masc|Number=Plur 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art /   / SPACE |  / Héraclès / PROPN |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ YHéra / NOUN |  
+/ YHéra / NOUN |  
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Aphrodite / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Io / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Nikè / PROPN | Gender=Masc|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Némésis / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ Plutei / PROPN |  / Traiani / PROPN |  
+/ Plutei / PROPN |  / Traiani / PROPN |  
+/ Tyrannoctones / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Tyrannoctones / NOUN | Gender=Fem|Number=Plur 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Dionysos / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Thespiades / NOUN | Gender=Masc|Number=Plur 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Osiris / PROPN | Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Calomnie / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Vénus / PROPN | Gender=Fem|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Diane / PROPN | Gender=Fem|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Apollon / PROPN | Number=Sing 
+/ cet / DET | Gender=Masc|Number=Sing|PronType=Dem / Apollon / PROPN |  
+/ Doryphore / PROPN |  
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Moschophore / PROPN | Gender=Masc|Number=Sing 
+/ Les / DET | Definite=Def|Number=Plur|PronType=Art / Tyrannoctones / NOUN | Gender=Fem|Number=Plur 
+/ Tyrannoctones / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Moschophore / NOUN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Moschophore / PROPN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / Tyrannoctones / NOUN | Gender=Fem|Number=Plur 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / boudeuse / NOUN | Gender=Fem|Number=Sing 
+/ Moschophore / PROPN |  / : / PUNCT |  
+/ Moschophore / PROPN |  
+/ Moschophore / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Athéna / PROPN | Number=Sing 
+/ nan / PROPN |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Athéna / PROPN | Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / hydre / NOUN | Gender=Fem|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ cet / DET | Gender=Masc|Number=Sing|PronType=Dem / Apollon / PROPN |  
+/ cet / DET | Gender=Masc|Number=Sing|PronType=Dem / Apollon / PROPN |  
+/ cetomphalos / NOUN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Heraclès / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / omphalos / NOUN | Gender=Masc|Number=Sing 
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / « / PUNCT |  / Epigones / PROPN |  / » / PUNCT |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Apollon / NOUN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Niké / PROPN | Gender=Fem|Number=Sing 
+/ Palladion / PROPN |  
+/ Palladion / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladion / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Palladion / PROPN |  
+/ les / DET | Definite=Def|Number=Plur|PronType=Art / tyrannoctones / NOUN | Gender=Fem|Number=Plur 
+/ - / PUNCT |  / Aphrodite / PROPN |  / ( / PUNCT |  / ? / PUNCT |  / ) / PUNCT |  / . / PUNCT |  / - / PUNCT |  
+/ - / PROPN |  / Muse / PROPN |  / ( / PUNCT |  / ? / PUNCT |  / ) / PUNCT |  / . / PUNCT |  
+/ - / PUNCT |  / Télesphore / PROPN |  / ( / PUNCT |  / ? / PUNCT |  / ) / PUNCT |  / . / PUNCT |  
+/ - / PROPN |  / Télesphore / PROPN |  / ? / PUNCT |  
+/ - / PUNCT |  / Télesphoros / PROPN |  / . / PUNCT |  / - / PUNCT |  
+/ . / PUNCT |  / Télesphore / ADV |  / ? / PUNCT |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Osiris / PROPN | Gender=Masc|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Gender=Masc|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / -Aphrodite / PROPN | Gender=Fem|Number=Sing / ; / PUNCT |  
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Déméter / VERB | VerbForm=Inf 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Déméter / VERB | VerbForm=Inf 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ Y / PRON | Person=3 / Anadiomène / PROPN |  
+/ YAnadyomène / PROPN |  
+/ YApoxyoménos / PROPN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anadyomène / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Médicis / NOUN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Anadyomène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Anadyomène / PROPN | Gender=Fem|Number=Sing 
+/ une / DET | Definite=Ind|Gender=Fem|Number=Sing|PronType=Art / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ ÏApoxyoménos / NOUN | Gender=Masc|Number=Sing 
+/ La / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / fameuse / ADJ | Gender=Fem|Number=Sing / Aphrodite / PROPN | Gender=Fem|Number=Sing 
+/ V / ADJ |  / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / coré / PROPN | Gender=Masc|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / coré / PROPN | Gender=Fem|Number=Sing 
+/ notre / DET | Number=Sing|Poss=Yes / Aphrodite / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Pudicité / NOUN | Gender=Fem|Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Pudicité / NOUN | Gender=Fem|Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Anguipède / PROPN | Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Dieu / PROPN |  / Cavalier / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Dieu / PROPN |  / Cavalier / PROPN |  
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Gender=Masc|Number=Sing / - / PROPN | Gender=Masc|Number=Sing / Jupiter / PROPN |  
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Zeus / PROPN | Number=Sing / - / PROPN |  / Jupiter / PROPN |  
+/ L' / DET | Definite=Def|Number=Sing|PronType=Art / Adonis / PROPN | Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / Jupiter / PROPN | Gender=Masc|Number=Sing 
+/ Le / DET | Definite=Def|Gender=Masc|Number=Sing|PronType=Art / petit / ADJ | Gender=Masc|Number=Sing / Jupiter / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ TROIS / PROPN |  / APHRODITES / PROPN |  
+/ Trois / NUM | NumType=Card / aphrodites / NOUN | Gender=Masc|Number=Plur 
+/ V / ADJ |  / Adonis / PROPN |  
+/ V / ADJ |  / Aphrodite / PROPN |  
+/ VEubouleus / NOUN |  
+/ Y / PRON | Person=3 / Adonis / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ Y / PRON | Person=3 / Aphrodite / PROPN |  
+/ YÂphrodite / NOUN | Gender=Masc|Number=Sing 
+/ cette / DET | Gender=Fem|Number=Sing|PronType=Dem / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ deux / NUM | NumType=Card / Aphrodites / PROPN |  
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ l' / DET | Definite=Def|Number=Sing|PronType=Art / Aphrodite / PROPN | Number=Sing 
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / Cnidienne / PROPN |  
+/ la / DET | Definite=Def|Gender=Fem|Number=Sing|PronType=Art / belle / ADJ | Gender=Fem|Number=Sing / Aphrodite / NOUN | Gender=Fem|Number=Sing 
+/ un / DET | Definite=Ind|Gender=Masc|Number=Sing|PronType=Art / Adonis / NOUN | Gender=Masc|Number=Sing 

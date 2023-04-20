@@ -1,0 +1,10 @@
+esclave
+guerrier
+religieux
+combattant
+athlète
+militaire
+marin
+héros
+courtisane
+soldat
