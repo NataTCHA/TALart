@@ -54,8 +54,8 @@ def make_piechart():
               'magenta', 'teal', 'navy', 'salmon', 'gold', 'indigo', 'lavender', 'tan', 'coral', 'lime']
     print(mylabels)
     print(y)
-    plt.pie(y, labels = mylabels, colors = colors)
-    plt.legend(title = "Catégorie des verbes dans les AS")
+    plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%')
+    plt.title(label = "Les catégories des verbes présents dans les AS : 'verbe de ...'")
     plt.show() 
 
 
