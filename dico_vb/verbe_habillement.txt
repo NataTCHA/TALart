@@ -1,0 +1,8 @@
+draper
+couronner
+habiller
+porter
+enlever
+déshabiller
+retirer
+
