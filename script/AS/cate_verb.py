@@ -56,6 +56,7 @@ def make_piechart():
     print(y)
     plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%')
     plt.title(label = "Les catégories des verbes présents dans les AS : 'verbe de ...'")
+    plt.legend(title = "Légende")
     plt.show() 
 
 
