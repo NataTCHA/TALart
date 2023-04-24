@@ -9,7 +9,7 @@ def find_cate_verb(corpus, dico_dir):
     #On cherche les lemmes des verbes dans le tsv des verbes
     with open (corpus, 'r') as f:
         df = pd.read_table(f)
-    verbes_lemmes = df["lemme"]
+    verbes_lemmes = df["lemme"] # ATTENTION à bien vérifier que le csv à une colonne nommée lemme
 
     # On initilaise les dico à remplir.
     dico_cat_verbe={}
@@ -28,7 +28,6 @@ def find_cate_verb(corpus, dico_dir):
         #On remplit le dico avec en key la catégorie et en valeur la liste de verbes.
         dico_cat_verbe.update({head:list(df[head])})
 
-
     for cat, verbe in dico_cat_verbe.items():
         count=0
         #pour chaque verbe dans la liste de verbes de chaque catégorie
@@ -42,7 +41,7 @@ def find_cate_verb(corpus, dico_dir):
     return dico_count
             
 def make_piechart():
-    dico_verbe = find_cate_verb('./lemma_verb_AS.tsv', '../../dico_vb')
+    dico_verbe = find_cate_verb('./lemma_verb_AE.tsv', '../../dico_vb')
     mylabels=[]
     mydata=[]
     print(dico_verbe)
@@ -55,7 +54,7 @@ def make_piechart():
     print(mylabels)
     print(y)
     plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%')
-    plt.title(label = "Les catégories des verbes présents dans les AS : 'verbe de ...'")
+    plt.title(label = "Les catégories des verbes présents dans les AE : 'verbe de ...'")
     plt.legend(title = "Légende")
     plt.show() 
 
