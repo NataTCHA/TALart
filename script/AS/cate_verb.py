@@ -41,7 +41,7 @@ def find_cate_verb(corpus, dico_dir):
     return dico_count
             
 def make_piechart():
-    dico_verbe = find_cate_verb('./lemma_verb_AE.tsv', '../../dico_vb')
+    dico_verbe = find_cate_verb('./lemma_verb_T.tsv', '../../dico_vb')
     mylabels=[]
     mydata=[]
     print(dico_verbe)
@@ -49,12 +49,12 @@ def make_piechart():
         mylabels.append(k)
         mydata.append(v)
     y = np.array(mydata)
-    colors = ['blue', 'red', 'green', 'orange', 'purple', 'brown', 'pink', 'gray', 'olive', 'cyan', 
+    colors = ['blue', 'red', 'green', 'orange', 'purple', 'brown', 'gray', 'olive', 'cyan', 
               'magenta', 'teal', 'navy', 'salmon', 'gold', 'indigo', 'lavender', 'tan', 'coral', 'lime']
     print(mylabels)
     print(y)
-    plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%')
-    plt.title(label = "Les catégories des verbes présents dans les AE : 'verbe de ...'")
+    plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%', startangle=90)
+    plt.title(label = "Les catégories des verbes présents dans les Thèmes : 'verbe de ...'")
     plt.legend(title = "Légende")
     plt.show() 
 
