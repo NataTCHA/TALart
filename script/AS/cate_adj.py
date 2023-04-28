@@ -40,7 +40,7 @@ def find_cate_adj(corpus, dico_dir):
     return dico_count
             
 def make_piechart():
-    dico_adj = find_cate_adj('./lemma_ADJ_AS.csv', '../../dico_adj')
+    dico_adj = find_cate_adj('./lemma_ADJ_AE.csv', '../../dico_adj')
     mylabels=[]
     mydata=[]
     print(dico_adj)
@@ -53,7 +53,7 @@ def make_piechart():
     print(mylabels)
     print(y)
     plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%', startangle = 90)
-    plt.title(label = "Les types d'adjectifs présents dans les AS :")
+    plt.title(label = "Les types d'adjectifs présents dans les Appellations Enrichies:")
     plt.legend(title = "Légende")
     plt.show() 
 
