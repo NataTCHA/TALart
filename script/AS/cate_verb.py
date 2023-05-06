@@ -18,7 +18,7 @@ def find_cate_verb(corpus, dico_dir):
     bon=[]
 
     # On cherche dans le csv les verbe en fonction des catégories
-    with open(f'{dico_dir}/categorie_verbes.csv', 'r') as file:
+    with open(f'{dico_dir}/categorie_verbe_grp.csv', 'r') as file:
         df = pd.read_csv(file)
 
     column_headers = list(df.columns.values)
@@ -41,7 +41,7 @@ def find_cate_verb(corpus, dico_dir):
     return dico_count
             
 def make_piechart():
-    dico_verbe = find_cate_verb('./lemma_verb_AE.tsv', '../../dico_vb')
+    dico_verbe = find_cate_verb('./lemma_verb_T.tsv', '../../dico_vb')
     mylabels=[]
     mydata=[]
     print(dico_verbe)
@@ -54,7 +54,7 @@ def make_piechart():
     print(mylabels)
     print(y)
     plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%', startangle=90)
-    plt.title(label = "Les catégories des verbes présents dans les Appellations Enrichies : 'verbe de ...'")
+    plt.title(label = "Les catégories des verbes présents dans les Thèmes : 'verbe de ...'")
     plt.legend(title = "Légende")
     plt.show() 
 
