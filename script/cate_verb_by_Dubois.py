@@ -1,5 +1,8 @@
 import json
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 def find_cate_verb(corpus, dico):
 
@@ -45,13 +48,31 @@ def find_cate_verb(corpus, dico):
     for verbe in verbes_as:
         verbe = verbe.lower()
         if verbe in dico_cate_verbe:
-            print(verbe, dico_cate_verbe[verbe])
             count[dico_cate_verbe[verbe]]+=1
         # else:
         #     print(verbe)
     print(count)
+    return count
             
-            
+def make_piechart():
+    dico_verbe = find_cate_verb('./lemma_verb_AE.tsv', '../../LVF.jsonl')
+    mylabels=[]
+    mydata=[]
+    print(dico_verbe)
+    for k, v in dico_verbe.items():
+        if v == 0:
+            continue
+        mylabels.append(k)
+        mydata.append(v)
+    y = np.array(mydata)
+    colors = ['blue', 'red', 'green', 'orange', 'purple', 'brown', 'gray', 'olive', 'cyan', 
+              'magenta', 'teal', 'navy', 'salmon', 'gold', 'indigo', 'lavender', 'tan', 'coral', 'lime', 'pink', 'silver']
+    print(mylabels)
+    print(y)
+    plt.pie(y, labels = mylabels, colors = colors, autopct='%1.0f%%', startangle=90)
+    plt.title(label = "Les catégories des verbes présents dans les Appellations Enrichies : 'verbe de ...'")
+    plt.legend(title = "Légende")
+    plt.show() 
 
 
-find_cate_verb('./lemma_verb_AS.tsv', '../../LVF_modif.jsonl')
+make_piechart()
